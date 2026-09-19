@@ -2,7 +2,7 @@
 
 Bootcamp case study (Dibimbing Data Analyst Bootcamp). Tests whether offering a 7-day Premium trial to active Free users increases Premium conversion without hurting listening time, across 100,000 users (50,000 per arm).
 
-**Full portfolio write-up:** [Notion][https://app.notion.com/p/A-B-Testing-Spotify-Premium-Free-Trial-Campaign-3de3c020afa8801b9db2c083df26724f]
+**Full portfolio write-up:** [Notion](https://app.notion.com/p/A-B-Testing-Spotify-Premium-Free-Trial-Campaign-3de3c020afa8801b9db2c083df26724f)
 
 ## Experiment Design
 
