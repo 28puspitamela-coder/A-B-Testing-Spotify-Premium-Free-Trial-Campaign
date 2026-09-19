@@ -77,6 +77,7 @@ Daily users were tracked for 15 days after rollout (1-15 March 2026, 310,423 use
 ## Tools
 
 Python (pandas, numpy, scipy, statsmodels, matplotlib, seaborn), Google Colab
+Full Python analysis: power analysis, Z-test and t-tests, confidence intervals, and post-implementation monitoring for a 7-day Premium trial tested on 100,000 users.
 
 ## Data
 
