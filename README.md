@@ -1,11 +1,8 @@
-# A-B-Testing-Spotify-Premium-Free-Trial-Campaign
-Bootcamp case study (Dibimbing Data Analyst Bootcamp). Does a 7-day Premium trial offered to active Free users increase Premium conversion without hurting listening time?
-
 # A/B Testing: Spotify Premium Free Trial Campaign
 
 Bootcamp case study (Dibimbing Data Analyst Bootcamp). Tests whether offering a 7-day Premium trial to active Free users increases Premium conversion without hurting listening time, across 100,000 users (50,000 per arm).
 
-**Full portfolio write-up:** [Notion](LINK_NOTION_KAMU)
+**Full portfolio write-up:** [Notion](LINK_NOTION_KAMU](https://app.notion.com/p/A-B-Testing-Spotify-Premium-Free-Trial-Campaign-3de3c020afa8801b9db2c083df26724f)
 
 ## Experiment Design
 
