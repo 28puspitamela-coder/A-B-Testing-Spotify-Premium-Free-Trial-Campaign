@@ -26,7 +26,8 @@ Bootcamp case study (Dibimbing Data Analyst Bootcamp). Tests whether offering a 
 - At 400 users per group per day, the planned duration is **94 days**
 - Actual test size: **100,000 users**, above the planned minimum
 
-![MDE vs sample size](<img width="1333" height="802" alt="01_mde_vs_sample_size" src="https://github.com/user-attachments/assets/4d046316-923f-4b4d-94d3-06aca81c0cbd" />)
+![MDE vs sample size](<img width="1333" height="802" alt="01_mde_vs_sample_size" src="https://github.com/user-attachments/assets/0907c21d-d2c6-465a-8270-289736d3220b" />
+)
 
 
 ## Method
@@ -45,7 +46,8 @@ Bootcamp case study (Dibimbing Data Analyst Bootcamp). Tests whether offering a 
 
 All three metrics moved in the same direction with a similar lift (33-34%). The guardrail metric did not drop; it rose, so the trial lifted conversion without attracting low-quality users who only take the free offer.
 
-![Conversion rate by group](<img width="1334" height="732" alt="02_conversion_rate_by_group" src="https://github.com/user-attachments/assets/5c9e1d3d-6f52-4d81-b4fa-e5fa77fba32a" />)
+![Conversion rate by group](<img width="1334" height="732" alt="02_conversion_rate_by_group" src="https://github.com/user-attachments/assets/4e025ccd-76b7-433c-9653-9036b920e17e" />
+)
 
 ## Recommendations
 
@@ -62,7 +64,8 @@ Daily users were tracked for 15 days after rollout (1-15 March 2026, 310,423 use
 - Trend slope: about **+871 users per day**
 - Day 1: 19,304 users, day 15: 24,446 users (+26.6%)
 
-![Daily users after implementation](<img width="1484" height="732" alt="08_post_implementation_daily_users" src="https://github.com/user-attachments/assets/5227c212-3e06-40ae-93a9-e9a9ca06cc8f" />)
+![Daily users after implementation](<img width="1484" height="732" alt="08_post_implementation_daily_users" src="https://github.com/user-attachments/assets/cd6e2f42-5ff3-4b61-b661-a176135c0263" />
+)
 
 **Limitations:** there is no pre-campaign baseline to compare against, Total Users is not the same as Premium conversion, and post-trial retention is not yet visible. The growth is consistent with the A/B result but cannot be attributed to the campaign alone.
 
